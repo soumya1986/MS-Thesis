@@ -1160,10 +1160,12 @@ containing a value of this type.
         public static final int action_settings=0x7f0a000f;
         public static final int app_name=0x7f0a000d;
         public static final int hello_world=0x7f0a000e;
+        public static final int leftIndicator=0x7f0a001c;
         public static final int listen_music=0x7f0a001b;
         public static final int next=0x7f0a0013;
         public static final int phone_call=0x7f0a0012;
         public static final int prev=0x7f0a0014;
+        public static final int rightIndicator=0x7f0a001d;
         public static final int start=0x7f0a0010;
         public static final int title_activity_messaging=0x7f0a0016;
         public static final int title_activity_music=0x7f0a001a;
