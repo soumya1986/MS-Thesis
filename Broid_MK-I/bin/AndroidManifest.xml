@@ -22,6 +22,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="iitd.ee.ms.broid.PhoneCallActivity"
+            android:label="@string/title_activity_phone_call"
+            android:parentActivityName="iitd.ee.ms.broid.MainActivity" >
+            <meta-data
+                android:name="adroid.support.PARENT_ACTIVITY"
+                android:value="iitd.ee.ms.broid.MainActivity" />
+        </activity>
+        <activity
+            android:name="iitd.ee.ms.broid.MessagingActivity"
+            android:label="@string/title_activity_messaging" >
+        </activity>
+        <activity
+            android:name="iitd.ee.ms.broid.MusicActivity"
+            android:label="@string/title_activity_music" >
+        </activity>
     </application>
 
 </manifest>
